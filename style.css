@@ -1,0 +1,56 @@
+.img {
+    height: 200px;
+    width: 200px;
+
+}
+
+.intro {
+    background-color: pink;
+    height: 110px;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: underline overline;
+    border: solid;
+    
+    
+ }
+
+ .two {
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+
+ }
+
+ .three {
+     font-family:'Indie Flower', cursive;
+     color: white;
+     font-size: 50px;
+     text-align: center; 
+     
+     
+ }
+
+ .background {
+     background-color: rgb(250, 202, 218);
+     padding-bottom: 100px;
+     padding-top: 100px;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-top: 80px;
+     margin-bottom: 80px;
+     border-radius: 15%;padding-top: 100px;
+     border: solid;
+    
+     
+ }
